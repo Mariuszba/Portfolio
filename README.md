@@ -1,12 +1,12 @@
 # Portfolio
 My Tester`s Portfolio ( in building )
-## bout me
+## About me
 My name is Mariusz Baran.
-## ols
+## Tols
 
-## ech Skills
+## Tech Skills
 
-## ourses
+## Courses
 
 ## Technical Books read
 
